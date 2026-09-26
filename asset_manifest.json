@@ -1,0 +1,1098 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DataCatalog",
+  "name": "MT Media AI Sovereign Multimodal Asset Repository (mtm-assets)",
+  "description": "Canonical repository of machine-legible brand marks, logos, vector crests, audio voice anchors, cinematic video loops, and geo-referenced photography for the MT Media AI ecosystem.",
+  "url": "https://github.com/mtmediaai/mtm-assets",
+  "publisher": {
+    "@type": "Organization",
+    "name": "MT Media AI",
+    "url": "https://mtmediaai.com"
+  },
+  "license": "https://mtmediaai.com/legal",
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "The Woodlands, TX",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 30.1588,
+      "longitude": -95.4613
+    }
+  },
+  "dataset": [
+    {
+      "@type": "MediaObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/.gitignore",
+      "name": " Gitignore",
+      "description": "MT Media AI official multimodal asset:  Gitignore.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/.gitignore",
+      "encodingFormat": "application/octet-stream",
+      "contentSize": "134 bytes",
+      "relPath": ".gitignore"
+    },
+    {
+      "@type": "MediaObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/ASSET_STANDARDS.md",
+      "name": "Asset_Standards Md",
+      "description": "MT Media AI official multimodal asset: Asset_Standards Md.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/ASSET_STANDARDS.md",
+      "encodingFormat": "text/markdown",
+      "contentSize": "4804 bytes",
+      "relPath": "ASSET_STANDARDS.md"
+    },
+    {
+      "@type": "MediaObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/README.md",
+      "name": "Readme Md",
+      "description": "MT Media AI official multimodal asset: Readme Md.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/README.md",
+      "encodingFormat": "text/markdown",
+      "contentSize": "3977 bytes",
+      "relPath": "README.md"
+    },
+    {
+      "@type": "MediaObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/generate_schema.py",
+      "name": "Generate_Schema Py",
+      "description": "MT Media AI official multimodal asset: Generate_Schema Py.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/generate_schema.py",
+      "encodingFormat": "text/x-python",
+      "contentSize": "3855 bytes",
+      "relPath": "generate_schema.py"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/logos/svg/final-company-logo-4k.svg",
+      "name": "MT Media AI Company Master Logo SVG",
+      "description": "Canonical corporate vector logo for MT Media AI featuring the sovereign crest.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/logos/svg/final-company-logo-4k.svg",
+      "encodingFormat": "image/svg+xml",
+      "contentSize": "288497 bytes",
+      "relPath": "brand/logos/svg/final-company-logo-4k.svg"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/logos/svg/kareem-crown-personal-brand-logo-1.svg",
+      "name": "Kareem Daniel Crown Personal Brand Logo SVG",
+      "description": "Official personal brand vector insignia of Kareem Daniel (The Architect) featuring the sovereign crown.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/logos/svg/kareem-crown-personal-brand-logo-1.svg",
+      "encodingFormat": "image/svg+xml",
+      "contentSize": "53136 bytes",
+      "relPath": "brand/logos/svg/kareem-crown-personal-brand-logo-1.svg"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/logos/svg/kc-2-5-personal-brand-logo-black-crown-4k.svg",
+      "name": "KC 2.5 Personal Brand Black Crown SVG",
+      "description": "Minimalist high-contrast black crown vector logo for executive dispatches and monochrome media.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/logos/svg/kc-2-5-personal-brand-logo-black-crown-4k.svg",
+      "encodingFormat": "image/svg+xml",
+      "contentSize": "42033 bytes",
+      "relPath": "brand/logos/svg/kc-2-5-personal-brand-logo-black-crown-4k.svg"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/logos/svg/main-logo-clear.svg",
+      "name": "MT Media AI Master Shield Vector (Transparent)",
+      "description": "Transparent background master shield vector insignia for MT Media AI brand architecture.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/logos/svg/main-logo-clear.svg",
+      "encodingFormat": "image/svg+xml",
+      "contentSize": "229260 bytes",
+      "relPath": "brand/logos/svg/main-logo-clear.svg"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/logos/svg/monogram-logo-4k-clear.svg",
+      "name": "MTM Monogram Logo SVG (Clear 4K)",
+      "description": "Interlocking MTM monogram vector mark rendered in high precision for application headers and favicons.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/logos/svg/monogram-logo-4k-clear.svg",
+      "encodingFormat": "image/svg+xml",
+      "contentSize": "34597 bytes",
+      "relPath": "brand/logos/svg/monogram-logo-4k-clear.svg"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/logos/svg/mt-shield-logo-4k-clear.svg",
+      "name": "MT Shield Heraldic Logo SVG",
+      "description": "Heraldic shield crest vector representing defensive enterprise authority and systemized leverage.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/logos/svg/mt-shield-logo-4k-clear.svg",
+      "encodingFormat": "image/svg+xml",
+      "contentSize": "54148 bytes",
+      "relPath": "brand/logos/svg/mt-shield-logo-4k-clear.svg"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/logos/svg/stacked-1-4k-mtm.svg",
+      "name": "MTM Stacked Corporate Mark SVG",
+      "description": "Vertically stacked typography and crest corporate mark for vertical navigation and editorial footers.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/logos/svg/stacked-1-4k-mtm.svg",
+      "encodingFormat": "image/svg+xml",
+      "contentSize": "46186 bytes",
+      "relPath": "brand/logos/svg/stacked-1-4k-mtm.svg"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/logos/webp/kareem-crown-personal-brand-logo-4k.webp",
+      "name": "Kareem Daniel Crown Personal Brand Logo 4K WebP",
+      "description": "High-fidelity WebP render of Kareem Daniel sovereign crown logo with molten gold gradient.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/logos/webp/kareem-crown-personal-brand-logo-4k.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "213050 bytes",
+      "relPath": "brand/logos/webp/kareem-crown-personal-brand-logo-4k.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/black-pen-nib-up.png",
+      "name": "Black Pen Nib Up Png",
+      "description": "MT Media AI official multimodal asset: Black Pen Nib Up Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/black-pen-nib-up.png",
+      "encodingFormat": "image/png",
+      "contentSize": "689248 bytes",
+      "relPath": "brand/pens-and-icons/black-pen-nib-up.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/black-pen-nib-up.webp",
+      "name": "Sovereign Fountain Pen Nib Vertical (Black)",
+      "description": "Craftsmanship symbol of the executive fountain pen nib oriented vertically in onyx black.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/black-pen-nib-up.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "149294 bytes",
+      "relPath": "brand/pens-and-icons/black-pen-nib-up.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/black-pen-nib.png",
+      "name": "Black Pen Nib Png",
+      "description": "MT Media AI official multimodal asset: Black Pen Nib Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/black-pen-nib.png",
+      "encodingFormat": "image/png",
+      "contentSize": "688530 bytes",
+      "relPath": "brand/pens-and-icons/black-pen-nib.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/black-pen-nib.webp",
+      "name": "Black Pen Nib Webp",
+      "description": "MT Media AI official multimodal asset: Black Pen Nib Webp.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/black-pen-nib.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "147726 bytes",
+      "relPath": "brand/pens-and-icons/black-pen-nib.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/black-pen-tip.png",
+      "name": "Black Pen Tip Png",
+      "description": "MT Media AI official multimodal asset: Black Pen Tip Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/black-pen-tip.png",
+      "encodingFormat": "image/png",
+      "contentSize": "810267 bytes",
+      "relPath": "brand/pens-and-icons/black-pen-tip.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-mtm-pen-clean.webp",
+      "name": "MTM Sovereign Gold Pen Rendering",
+      "description": "Photorealistic 3D render of the MTM executive black lacquer and 24K gold fountain pen.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-mtm-pen-clean.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "219829 bytes",
+      "relPath": "brand/pens-and-icons/gold-mtm-pen-clean.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-mtm-pen.webp",
+      "name": "Gold Mtm Pen Webp",
+      "description": "MT Media AI official multimodal asset: Gold Mtm Pen Webp.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-mtm-pen.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "219829 bytes",
+      "relPath": "brand/pens-and-icons/gold-mtm-pen.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-pen-nib-up.png",
+      "name": "Gold Pen Nib Up Png",
+      "description": "MT Media AI official multimodal asset: Gold Pen Nib Up Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-pen-nib-up.png",
+      "encodingFormat": "image/png",
+      "contentSize": "613950 bytes",
+      "relPath": "brand/pens-and-icons/gold-pen-nib-up.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-pen-nib-up.webp",
+      "name": "Sovereign Fountain Pen Nib Vertical (Midas Gold)",
+      "description": "Craftsmanship symbol of the executive fountain pen nib oriented vertically in molten Midas gold.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-pen-nib-up.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "111388 bytes",
+      "relPath": "brand/pens-and-icons/gold-pen-nib-up.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-pen-nib.png",
+      "name": "Gold Pen Nib Png",
+      "description": "MT Media AI official multimodal asset: Gold Pen Nib Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-pen-nib.png",
+      "encodingFormat": "image/png",
+      "contentSize": "614939 bytes",
+      "relPath": "brand/pens-and-icons/gold-pen-nib.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-pen-nib.webp",
+      "name": "Gold Pen Nib Webp",
+      "description": "MT Media AI official multimodal asset: Gold Pen Nib Webp.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-pen-nib.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "114518 bytes",
+      "relPath": "brand/pens-and-icons/gold-pen-nib.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-pen-tip-1.png",
+      "name": "Gold Pen Tip 1 Png",
+      "description": "MT Media AI official multimodal asset: Gold Pen Tip 1 Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-pen-tip-1.png",
+      "encodingFormat": "image/png",
+      "contentSize": "677295 bytes",
+      "relPath": "brand/pens-and-icons/gold-pen-tip-1.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-pen-tip-1.webp",
+      "name": "Gold Pen Tip 1 Webp",
+      "description": "MT Media AI official multimodal asset: Gold Pen Tip 1 Webp.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-pen-tip-1.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "84962 bytes",
+      "relPath": "brand/pens-and-icons/gold-pen-tip-1.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-pen-tip-4k.webp",
+      "name": "Gold Pen Tip 4K Webp",
+      "description": "MT Media AI official multimodal asset: Gold Pen Tip 4K Webp.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-pen-tip-4k.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "137529 bytes",
+      "relPath": "brand/pens-and-icons/gold-pen-tip-4k.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-pen-tip.png",
+      "name": "Gold Pen Tip Png",
+      "description": "MT Media AI official multimodal asset: Gold Pen Tip Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-pen-tip.png",
+      "encodingFormat": "image/png",
+      "contentSize": "807753 bytes",
+      "relPath": "brand/pens-and-icons/gold-pen-tip.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-pen-tip.webp",
+      "name": "Gold Pen Tip Webp",
+      "description": "MT Media AI official multimodal asset: Gold Pen Tip Webp.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/pens-and-icons/gold-pen-tip.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "137529 bytes",
+      "relPath": "brand/pens-and-icons/gold-pen-tip.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/bottom-graphic.png",
+      "name": "Bottom Graphic Png",
+      "description": "MT Media AI official multimodal asset: Bottom Graphic Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/bottom-graphic.png",
+      "encodingFormat": "image/png",
+      "contentSize": "309290 bytes",
+      "relPath": "brand/signatures/bottom-graphic.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/branding.png",
+      "name": "Branding Png",
+      "description": "MT Media AI official multimodal asset: Branding Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/branding.png",
+      "encodingFormat": "image/png",
+      "contentSize": "208300 bytes",
+      "relPath": "brand/signatures/branding.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/email.png",
+      "name": "Email Png",
+      "description": "MT Media AI official multimodal asset: Email Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/email.png",
+      "encodingFormat": "image/png",
+      "contentSize": "30541 bytes",
+      "relPath": "brand/signatures/email.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/facebook.png",
+      "name": "Facebook Png",
+      "description": "MT Media AI official multimodal asset: Facebook Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/facebook.png",
+      "encodingFormat": "image/png",
+      "contentSize": "18358 bytes",
+      "relPath": "brand/signatures/facebook.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/instagram.png",
+      "name": "Instagram Png",
+      "description": "MT Media AI official multimodal asset: Instagram Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/instagram.png",
+      "encodingFormat": "image/png",
+      "contentSize": "21447 bytes",
+      "relPath": "brand/signatures/instagram.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/linkedin.png",
+      "name": "Linkedin Png",
+      "description": "MT Media AI official multimodal asset: Linkedin Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/linkedin.png",
+      "encodingFormat": "image/png",
+      "contentSize": "20476 bytes",
+      "relPath": "brand/signatures/linkedin.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/pinterest.png",
+      "name": "Pinterest Png",
+      "description": "MT Media AI official multimodal asset: Pinterest Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/pinterest.png",
+      "encodingFormat": "image/png",
+      "contentSize": "20803 bytes",
+      "relPath": "brand/signatures/pinterest.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/social-section.png",
+      "name": "Social Section Png",
+      "description": "MT Media AI official multimodal asset: Social Section Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/social-section.png",
+      "encodingFormat": "image/png",
+      "contentSize": "302403 bytes",
+      "relPath": "brand/signatures/social-section.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/telegram.png",
+      "name": "Telegram Png",
+      "description": "MT Media AI official multimodal asset: Telegram Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/telegram.png",
+      "encodingFormat": "image/png",
+      "contentSize": "20556 bytes",
+      "relPath": "brand/signatures/telegram.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/threads.png",
+      "name": "Threads Png",
+      "description": "MT Media AI official multimodal asset: Threads Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/threads.png",
+      "encodingFormat": "image/png",
+      "contentSize": "21812 bytes",
+      "relPath": "brand/signatures/threads.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/tiktok.png",
+      "name": "Tiktok Png",
+      "description": "MT Media AI official multimodal asset: Tiktok Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/tiktok.png",
+      "encodingFormat": "image/png",
+      "contentSize": "19893 bytes",
+      "relPath": "brand/signatures/tiktok.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/tm-logo.png",
+      "name": "Tm Logo Png",
+      "description": "MT Media AI official multimodal asset: Tm Logo Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/tm-logo.png",
+      "encodingFormat": "image/png",
+      "contentSize": "21188 bytes",
+      "relPath": "brand/signatures/tm-logo.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/whatsapp.png",
+      "name": "Whatsapp Png",
+      "description": "MT Media AI official multimodal asset: Whatsapp Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/whatsapp.png",
+      "encodingFormat": "image/png",
+      "contentSize": "20921 bytes",
+      "relPath": "brand/signatures/whatsapp.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/x.png",
+      "name": "X Png",
+      "description": "MT Media AI official multimodal asset: X Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/x.png",
+      "encodingFormat": "image/png",
+      "contentSize": "20981 bytes",
+      "relPath": "brand/signatures/x.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/youtube.png",
+      "name": "Youtube Png",
+      "description": "MT Media AI official multimodal asset: Youtube Png.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/brand/signatures/youtube.png",
+      "encodingFormat": "image/png",
+      "contentSize": "20141 bytes",
+      "relPath": "brand/signatures/youtube.png"
+    },
+    {
+      "@type": "AudioObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/echo/echo-hume-reference.wav",
+      "name": "Echo Canonical Voice Sample (Resonant, Observant & Empathetic)",
+      "description": "Master acoustic timbre reference for Echo's conversational AI persona, conveying market resonance, thoughtful listening, and deep pulse tracking.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/echo/echo-hume-reference.wav",
+      "encodingFormat": "audio/wav",
+      "contentSize": "647724 bytes",
+      "relPath": "forge/audio/echo/echo-hume-reference.wav"
+    },
+    {
+      "@type": "AudioObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/echo/groovy-guy.wav",
+      "name": "Groovy Guy Wav",
+      "description": "MT Media AI official multimodal asset: Groovy Guy Wav.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/echo/groovy-guy.wav",
+      "encodingFormat": "audio/wav",
+      "contentSize": "970604 bytes",
+      "relPath": "forge/audio/echo/groovy-guy.wav"
+    },
+    {
+      "@type": "AudioObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/echo/terrence-bentley.wav",
+      "name": "Terrence Bentley Wav",
+      "description": "MT Media AI official multimodal asset: Terrence Bentley Wav.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/echo/terrence-bentley.wav",
+      "encodingFormat": "audio/wav",
+      "contentSize": "260160 bytes",
+      "relPath": "forge/audio/echo/terrence-bentley.wav"
+    },
+    {
+      "@type": "AudioObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/goldie/american-lead-actress.wav",
+      "name": "American Lead Actress Wav",
+      "description": "MT Media AI official multimodal asset: American Lead Actress Wav.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/goldie/american-lead-actress.wav",
+      "encodingFormat": "audio/wav",
+      "contentSize": "870764 bytes",
+      "relPath": "forge/audio/goldie/american-lead-actress.wav"
+    },
+    {
+      "@type": "AudioObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/goldie/casual-podcast-host.mp3",
+      "name": "Casual Podcast Host Mp3",
+      "description": "MT Media AI official multimodal asset: Casual Podcast Host Mp3.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/goldie/casual-podcast-host.mp3",
+      "encodingFormat": "audio/mpeg",
+      "contentSize": "150528 bytes",
+      "relPath": "forge/audio/goldie/casual-podcast-host.mp3"
+    },
+    {
+      "@type": "AudioObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/goldie/cool-journalist.mp3",
+      "name": "Cool Journalist Mp3",
+      "description": "MT Media AI official multimodal asset: Cool Journalist Mp3.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/goldie/cool-journalist.mp3",
+      "encodingFormat": "audio/mpeg",
+      "contentSize": "217728 bytes",
+      "relPath": "forge/audio/goldie/cool-journalist.mp3"
+    },
+    {
+      "@type": "AudioObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/goldie/goldie-hume-reference.mp3",
+      "name": "Goldie Canonical Voice Sample (Aspirational & Warm)",
+      "description": "Master acoustic timbre reference for Goldie's conversational AI persona, conveying authority, warmth, and visionary clarity.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/goldie/goldie-hume-reference.mp3",
+      "encodingFormat": "audio/mpeg",
+      "contentSize": "165500 bytes",
+      "relPath": "forge/audio/goldie/goldie-hume-reference.mp3"
+    },
+    {
+      "@type": "AudioObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/nina/expressive-girl.wav",
+      "name": "Expressive Girl Wav",
+      "description": "MT Media AI official multimodal asset: Expressive Girl Wav.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/nina/expressive-girl.wav",
+      "encodingFormat": "audio/wav",
+      "contentSize": "548204 bytes",
+      "relPath": "forge/audio/nina/expressive-girl.wav"
+    },
+    {
+      "@type": "AudioObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/nina/nina-hume-reference.mp3",
+      "name": "Nina Canonical Voice Sample (Crisp, Clinical & Skeptical)",
+      "description": "Master acoustic timbre reference for Nina's conversational AI persona, conveying razor-sharp logic, scrutiny, and standards defense.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/nina/nina-hume-reference.mp3",
+      "encodingFormat": "audio/mpeg",
+      "contentSize": "157196 bytes",
+      "relPath": "forge/audio/nina/nina-hume-reference.mp3"
+    },
+    {
+      "@type": "AudioObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/nina/serene-assistant.mp3",
+      "name": "Serene Assistant Mp3",
+      "description": "MT Media AI official multimodal asset: Serene Assistant Mp3.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/nina/serene-assistant.mp3",
+      "encodingFormat": "audio/mpeg",
+      "contentSize": "129408 bytes",
+      "relPath": "forge/audio/nina/serene-assistant.mp3"
+    },
+    {
+      "@type": "AudioObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/roman/brooding-intellectual-man.wav",
+      "name": "Brooding Intellectual Man Wav",
+      "description": "MT Media AI official multimodal asset: Brooding Intellectual Man Wav.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/roman/brooding-intellectual-man.wav",
+      "encodingFormat": "audio/wav",
+      "contentSize": "859244 bytes",
+      "relPath": "forge/audio/roman/brooding-intellectual-man.wav"
+    },
+    {
+      "@type": "AudioObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/roman/donovan-sinclair.wav",
+      "name": "Donovan Sinclair Wav",
+      "description": "MT Media AI official multimodal asset: Donovan Sinclair Wav.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/roman/donovan-sinclair.wav",
+      "encodingFormat": "audio/wav",
+      "contentSize": "316248 bytes",
+      "relPath": "forge/audio/roman/donovan-sinclair.wav"
+    },
+    {
+      "@type": "AudioObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/roman/dramatic-movie-trailer-narrator.mp3",
+      "name": "Dramatic Movie Trailer Narrator Mp3",
+      "description": "MT Media AI official multimodal asset: Dramatic Movie Trailer Narrator Mp3.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/roman/dramatic-movie-trailer-narrator.mp3",
+      "encodingFormat": "audio/mpeg",
+      "contentSize": "130944 bytes",
+      "relPath": "forge/audio/roman/dramatic-movie-trailer-narrator.mp3"
+    },
+    {
+      "@type": "AudioObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/roman/inspiring-older-guy.wav",
+      "name": "Inspiring Older Guy Wav",
+      "description": "MT Media AI official multimodal asset: Inspiring Older Guy Wav.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/roman/inspiring-older-guy.wav",
+      "encodingFormat": "audio/wav",
+      "contentSize": "855404 bytes",
+      "relPath": "forge/audio/roman/inspiring-older-guy.wav"
+    },
+    {
+      "@type": "AudioObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/roman/male-protagonist.wav",
+      "name": "Male Protagonist Wav",
+      "description": "MT Media AI official multimodal asset: Male Protagonist Wav.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/roman/male-protagonist.wav",
+      "encodingFormat": "audio/wav",
+      "contentSize": "248818 bytes",
+      "relPath": "forge/audio/roman/male-protagonist.wav"
+    },
+    {
+      "@type": "AudioObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/roman/roman-hume-reference.mp3",
+      "name": "Roman Canonical Voice Sample (Analytical & Grounded)",
+      "description": "Master acoustic timbre reference for Roman's conversational AI persona, conveying technical precision, structural grit, and executive confidence.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/roman/roman-hume-reference.mp3",
+      "encodingFormat": "audio/mpeg",
+      "contentSize": "118052 bytes",
+      "relPath": "forge/audio/roman/roman-hume-reference.mp3"
+    },
+    {
+      "@type": "AudioObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/roman/unserious-movie-trailer-narrator.wav",
+      "name": "Unserious Movie Trailer Narrator Wav",
+      "description": "MT Media AI official multimodal asset: Unserious Movie Trailer Narrator Wav.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/audio/roman/unserious-movie-trailer-narrator.wav",
+      "encodingFormat": "audio/wav",
+      "contentSize": "333910 bytes",
+      "relPath": "forge/audio/roman/unserious-movie-trailer-narrator.wav"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/personas/echo-human.webp",
+      "name": "Echo \u2014 The Customer Experience Sentinel (Human Persona Portrait)",
+      "description": "Official portrait of Echo, MTM brand ambassador and customer sentiment pulse, rendered in obsidian onyx styling.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/personas/echo-human.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "59800 bytes",
+      "relPath": "forge/personas/echo-human.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/personas/goldie-human.webp",
+      "name": "Goldie \u2014 The Nurturing Visionary (Human Persona Portrait)",
+      "description": "Official portrait of Goldie, MTM brand ambassador and visionary catalyst, rendered in molten gold styling.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/personas/goldie-human.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "104576 bytes",
+      "relPath": "forge/personas/goldie-human.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/personas/nina-human.webp",
+      "name": "Nina \u2014 The Skeptical Reality Check (Human Persona Portrait)",
+      "description": "Official portrait of Nina, MTM brand ambassador and truth gate auditor, rendered in clinical HID white styling.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/personas/nina-human.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "70524 bytes",
+      "relPath": "forge/personas/nina-human.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/personas/roman-human.webp",
+      "name": "Roman \u2014 The Analytical Strategist (Human Persona Portrait)",
+      "description": "Official portrait of Roman, MTM brand ambassador and systems strategist, rendered in lightning platinum styling.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/personas/roman-human.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "80302 bytes",
+      "relPath": "forge/personas/roman-human.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/sigils/echo-sigil-4k-clean.webp",
+      "name": "Echo Obsidian Void Sigil 4K",
+      "description": "Obsidian onyx resonance sigil symbolizing market pulse, client telemetry, and feedback loop closure.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/sigils/echo-sigil-4k-clean.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "835768 bytes",
+      "relPath": "forge/sigils/echo-sigil-4k-clean.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/sigils/echo-sigil-clear-4k.webp",
+      "name": "Echo Void Shield Sigil (Clear 4K)",
+      "description": "Transparent background shield variant of Echo's crest for pulse telemetry widgets and sentiment charts.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/sigils/echo-sigil-clear-4k.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "208402 bytes",
+      "relPath": "forge/sigils/echo-sigil-clear-4k.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/sigils/goldie-s-shield-sigil-clear-4k.webp",
+      "name": "Goldie Shield Sigil (Clear 4K)",
+      "description": "Transparent background shield variant of Goldie's crest for overlay on dark UI backdrops.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/sigils/goldie-s-shield-sigil-clear-4k.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "364366 bytes",
+      "relPath": "forge/sigils/goldie-s-shield-sigil-clear-4k.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/sigils/goldie-sigil-main-4k.webp",
+      "name": "Goldie Emissive Sun Sigil 4K",
+      "description": "Molten gold emissive sunburst sigil symbolizing creative spark, market vision, and premium positioning.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/sigils/goldie-sigil-main-4k.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "1270922 bytes",
+      "relPath": "forge/sigils/goldie-sigil-main-4k.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/sigils/nina-sigil-clear.webp",
+      "name": "Nina Shield Sigil (Clear)",
+      "description": "Transparent background shield variant of Nina's crest for gatekeeping modals and audit reports.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/sigils/nina-sigil-clear.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "575190 bytes",
+      "relPath": "forge/sigils/nina-sigil-clear.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/sigils/nina-sigil-main-4k.webp",
+      "name": "Nina Clinical HID Shield Sigil 4K",
+      "description": "Clinical HID white diamond shield sigil symbolizing anti-hallucination verification and rigorous standards.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/sigils/nina-sigil-main-4k.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "1651092 bytes",
+      "relPath": "forge/sigils/nina-sigil-main-4k.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/sigils/roman-sigil-4k.webp",
+      "name": "Roman Lightning Platinum Sigil 4K",
+      "description": "Precision platinum compass and logic sigil symbolizing mathematical certainty and systems architecture.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/sigils/roman-sigil-4k.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "1740098 bytes",
+      "relPath": "forge/sigils/roman-sigil-4k.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/sigils/roman-sigil-clear-4k.webp",
+      "name": "Roman Platinum Shield Sigil (Clear 4K)",
+      "description": "Transparent background shield variant of Roman's crest for technical documentation and terminal interfaces.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/sigils/roman-sigil-clear-4k.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "2136716 bytes",
+      "relPath": "forge/sigils/roman-sigil-clear-4k.webp"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/ambient/echo-galaxy.mp4",
+      "name": "Echo Void Galaxy Cosmic Telemetry Loop",
+      "description": "Cinematic particle nebula loop visualizing the dynamic information flux of the MTM Ark Network.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/ambient/echo-galaxy.mp4",
+      "encodingFormat": "video/mp4",
+      "contentSize": "1197940 bytes",
+      "relPath": "forge/video/ambient/echo-galaxy.mp4"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/ambient/houston-ambient-void.mp4",
+      "name": "Houston Sovereign Night Sky Ambient Void Loop",
+      "description": "Cinematic 1080p ambient video loop of the Houston nocturnal sky gradient with subtle starfield drift.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/ambient/houston-ambient-void.mp4",
+      "encodingFormat": "video/mp4",
+      "contentSize": "1197940 bytes",
+      "relPath": "forge/video/ambient/houston-ambient-void.mp4"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/echo/echo-exhale.mp4",
+      "name": "Echo Ambassador Void Exhale Vignette",
+      "description": "Character motion study of Echo focusing customer feedback telemetry into operational clarity.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/echo/echo-exhale.mp4",
+      "encodingFormat": "video/mp4",
+      "contentSize": "2702915 bytes",
+      "relPath": "forge/video/echo/echo-exhale.mp4"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/echo/echo-fresh-cut-00-clip.mp4",
+      "name": "Echo Fresh Cut 00 Clip Mp4",
+      "description": "MT Media AI official multimodal asset: Echo Fresh Cut 00 Clip Mp4.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/echo/echo-fresh-cut-00-clip.mp4",
+      "encodingFormat": "video/mp4",
+      "contentSize": "2511531 bytes",
+      "relPath": "forge/video/echo/echo-fresh-cut-00-clip.mp4"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/echo/echo-transitions-to-maestro-mode.mp4",
+      "name": "Echo Ambassador Transition to Maestro Mode",
+      "description": "Motion graphic vignette of Echo transitioning into active IDE execution and telemetry monitoring.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/echo/echo-transitions-to-maestro-mode.mp4",
+      "encodingFormat": "video/mp4",
+      "contentSize": "1056067 bytes",
+      "relPath": "forge/video/echo/echo-transitions-to-maestro-mode.mp4"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/echo/echo-void-clear-eyes.mp4",
+      "name": "Echo Void Clear Eyes Mp4",
+      "description": "MT Media AI official multimodal asset: Echo Void Clear Eyes Mp4.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/echo/echo-void-clear-eyes.mp4",
+      "encodingFormat": "video/mp4",
+      "contentSize": "2511531 bytes",
+      "relPath": "forge/video/echo/echo-void-clear-eyes.mp4"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/echo/echo-void-smoke-trails-clip-1.mp4",
+      "name": "Echo Void Smoke Trails Clip 1 Mp4",
+      "description": "MT Media AI official multimodal asset: Echo Void Smoke Trails Clip 1 Mp4.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/echo/echo-void-smoke-trails-clip-1.mp4",
+      "encodingFormat": "video/mp4",
+      "contentSize": "2685263 bytes",
+      "relPath": "forge/video/echo/echo-void-smoke-trails-clip-1.mp4"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/echo/echo-void-smoked-out.mp4",
+      "name": "Echo Void Smoked Out Mp4",
+      "description": "MT Media AI official multimodal asset: Echo Void Smoked Out Mp4.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/echo/echo-void-smoked-out.mp4",
+      "encodingFormat": "video/mp4",
+      "contentSize": "2706279 bytes",
+      "relPath": "forge/video/echo/echo-void-smoked-out.mp4"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/echo/echo-void-stiank-face.mp4",
+      "name": "Echo Void Stiank Face Mp4",
+      "description": "MT Media AI official multimodal asset: Echo Void Stiank Face Mp4.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/echo/echo-void-stiank-face.mp4",
+      "encodingFormat": "video/mp4",
+      "contentSize": "2550130 bytes",
+      "relPath": "forge/video/echo/echo-void-stiank-face.mp4"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/nina/nina-act-now-clip.mp4",
+      "name": "Nina Standards Enforcement Action Clip",
+      "description": "Cinematic portrait vignette of Nina demanding empirical standards and zero tolerance for AI slop.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/nina/nina-act-now-clip.mp4",
+      "encodingFormat": "video/mp4",
+      "contentSize": "1688565 bytes",
+      "relPath": "forge/video/nina/nina-act-now-clip.mp4"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/nina/nina-ice-flash-1.mp4",
+      "name": "Nina Ice Flash 1 Mp4",
+      "description": "MT Media AI official multimodal asset: Nina Ice Flash 1 Mp4.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/nina/nina-ice-flash-1.mp4",
+      "encodingFormat": "video/mp4",
+      "contentSize": "1886744 bytes",
+      "relPath": "forge/video/nina/nina-ice-flash-1.mp4"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/nina/nina-ice-flash-2.mp4",
+      "name": "Nina Ice Flash 2 Mp4",
+      "description": "MT Media AI official multimodal asset: Nina Ice Flash 2 Mp4.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/nina/nina-ice-flash-2.mp4",
+      "encodingFormat": "video/mp4",
+      "contentSize": "1906065 bytes",
+      "relPath": "forge/video/nina/nina-ice-flash-2.mp4"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/nina/nina-ice-flash-3.mp4",
+      "name": "Nina Ice Flash 3 Mp4",
+      "description": "MT Media AI official multimodal asset: Nina Ice Flash 3 Mp4.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/nina/nina-ice-flash-3.mp4",
+      "encodingFormat": "video/mp4",
+      "contentSize": "2366481 bytes",
+      "relPath": "forge/video/nina/nina-ice-flash-3.mp4"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/nina/nina-ice-flash-4.mp4",
+      "name": "Nina Ice Flash 4 Mp4",
+      "description": "MT Media AI official multimodal asset: Nina Ice Flash 4 Mp4.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/nina/nina-ice-flash-4.mp4",
+      "encodingFormat": "video/mp4",
+      "contentSize": "2402351 bytes",
+      "relPath": "forge/video/nina/nina-ice-flash-4.mp4"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/nina/nina-ice-flash-5.mp4",
+      "name": "Nina Ice Flash 5 Mp4",
+      "description": "MT Media AI official multimodal asset: Nina Ice Flash 5 Mp4.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/nina/nina-ice-flash-5.mp4",
+      "encodingFormat": "video/mp4",
+      "contentSize": "2810098 bytes",
+      "relPath": "forge/video/nina/nina-ice-flash-5.mp4"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/nina/nina-void-ice-queen-1.mp4",
+      "name": "Nina Void Ice Queen 1 Mp4",
+      "description": "MT Media AI official multimodal asset: Nina Void Ice Queen 1 Mp4.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/nina/nina-void-ice-queen-1.mp4",
+      "encodingFormat": "video/mp4",
+      "contentSize": "3592731 bytes",
+      "relPath": "forge/video/nina/nina-void-ice-queen-1.mp4"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/nina/nina-void-ice-queen-2.mp4",
+      "name": "Nina Void Ice Queen 2 Mp4",
+      "description": "MT Media AI official multimodal asset: Nina Void Ice Queen 2 Mp4.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/nina/nina-void-ice-queen-2.mp4",
+      "encodingFormat": "video/mp4",
+      "contentSize": "4199095 bytes",
+      "relPath": "forge/video/nina/nina-void-ice-queen-2.mp4"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/nina/nina-white-to-black.mp4",
+      "name": "Nina White To Black Mp4",
+      "description": "MT Media AI official multimodal asset: Nina White To Black Mp4.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/forge/video/nina/nina-white-to-black.mp4",
+      "encodingFormat": "video/mp4",
+      "contentSize": "2665207 bytes",
+      "relPath": "forge/video/nina/nina-white-to-black.mp4"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/landmarks/houston-heritage-plaza-cistern.jpg",
+      "name": "Heritage Plaza Cistern Architecture (Houston, TX)",
+      "description": "Architectural study of Houston's iconic stepped glass summit and underground subterranean cistern.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/landmarks/houston-heritage-plaza-cistern.jpg",
+      "encodingFormat": "image/jpeg",
+      "contentSize": "3766149 bytes",
+      "relPath": "landmarks/houston-heritage-plaza-cistern.jpg",
+      "contentLocation": {
+        "@type": "Place",
+        "name": "Houston, TX",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 29.7589,
+          "longitude": -95.3677
+        }
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/landmarks/houston-museum-fine-arts-mfah.jpg",
+      "name": "Museum of Fine Arts Houston (MFAH) Modernist Facade",
+      "description": "Translucent glass architectural facade of MFAH Kinder Building in Houston Museum District.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/landmarks/houston-museum-fine-arts-mfah.jpg",
+      "encodingFormat": "image/jpeg",
+      "contentSize": "2244505 bytes",
+      "relPath": "landmarks/houston-museum-fine-arts-mfah.jpg",
+      "contentLocation": {
+        "@type": "Place",
+        "name": "Houston, TX",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 29.7258,
+          "longitude": -95.3905
+        }
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/landmarks/houston-skyline-downtown.jpg",
+      "name": "Downtown Houston Skyline Sovereign Twilight",
+      "description": "High-altitude architectural panorama of Downtown Houston commercial district at dusk.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/landmarks/houston-skyline-downtown.jpg",
+      "encodingFormat": "image/jpeg",
+      "contentSize": "3615588 bytes",
+      "relPath": "landmarks/houston-skyline-downtown.jpg",
+      "contentLocation": {
+        "@type": "Place",
+        "name": "Houston, TX",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 29.7604,
+          "longitude": -95.3698
+        }
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/landmarks/houston-space-center-nasa.jpg",
+      "name": "NASA Johnson Space Center Saturn V Rocket Complex",
+      "description": "Engineering scale photograph of the Saturn V rocket complex at NASA Johnson Space Center, Houston.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/landmarks/houston-space-center-nasa.jpg",
+      "encodingFormat": "image/jpeg",
+      "contentSize": "3620212 bytes",
+      "relPath": "landmarks/houston-space-center-nasa.jpg",
+      "contentLocation": {
+        "@type": "Place",
+        "name": "Houston, TX",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 29.5593,
+          "longitude": -95.09
+        }
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/landmarks/houston-williams-tower-uptown.jpg",
+      "name": "Williams Tower & Waterwall Plaza (Uptown Houston)",
+      "description": "Art Deco architectural monument of Williams Tower and waterwall amphitheater in Uptown Galleria.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/landmarks/houston-williams-tower-uptown.jpg",
+      "encodingFormat": "image/jpeg",
+      "contentSize": "728929 bytes",
+      "relPath": "landmarks/houston-williams-tower-uptown.jpg",
+      "contentLocation": {
+        "@type": "Place",
+        "name": "Houston, TX",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 29.7533,
+          "longitude": -95.4608
+        }
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/landmarks/houston-woodlands-waterway-corridor.jpg",
+      "name": "The Woodlands Waterway Sovereign Corridor (The Woodlands, TX)",
+      "description": "Commercial and lifestyle corridor along The Woodlands Waterway, headquarters home of MT Media AI.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/landmarks/houston-woodlands-waterway-corridor.jpg",
+      "encodingFormat": "image/jpeg",
+      "contentSize": "326307 bytes",
+      "relPath": "landmarks/houston-woodlands-waterway-corridor.jpg",
+      "contentLocation": {
+        "@type": "Place",
+        "name": "The Woodlands, TX",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 30.1588,
+          "longitude": -95.4613
+        }
+      }
+    },
+    {
+      "@type": "MediaObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/transcripts/echo-galaxy.vtt",
+      "name": "Echo Galaxy Vtt",
+      "description": "MT Media AI official multimodal asset: Echo Galaxy Vtt.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/transcripts/echo-galaxy.vtt",
+      "encodingFormat": "text/vtt",
+      "contentSize": "312 bytes",
+      "relPath": "transcripts/echo-galaxy.vtt"
+    },
+    {
+      "@type": "MediaObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/transcripts/echo-voice.vtt",
+      "name": "Echo Voice Vtt",
+      "description": "MT Media AI official multimodal asset: Echo Voice Vtt.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/transcripts/echo-voice.vtt",
+      "encodingFormat": "text/vtt",
+      "contentSize": "482 bytes",
+      "relPath": "transcripts/echo-voice.vtt"
+    },
+    {
+      "@type": "MediaObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/transcripts/goldie-voice.vtt",
+      "name": "Goldie Voice Vtt",
+      "description": "MT Media AI official multimodal asset: Goldie Voice Vtt.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/transcripts/goldie-voice.vtt",
+      "encodingFormat": "text/vtt",
+      "contentSize": "502 bytes",
+      "relPath": "transcripts/goldie-voice.vtt"
+    },
+    {
+      "@type": "MediaObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/transcripts/houston-ambient-void.vtt",
+      "name": "Houston Ambient Void Vtt",
+      "description": "MT Media AI official multimodal asset: Houston Ambient Void Vtt.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/transcripts/houston-ambient-void.vtt",
+      "encodingFormat": "text/vtt",
+      "contentSize": "358 bytes",
+      "relPath": "transcripts/houston-ambient-void.vtt"
+    },
+    {
+      "@type": "MediaObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/transcripts/nina-voice.vtt",
+      "name": "Nina Voice Vtt",
+      "description": "MT Media AI official multimodal asset: Nina Voice Vtt.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/transcripts/nina-voice.vtt",
+      "encodingFormat": "text/vtt",
+      "contentSize": "474 bytes",
+      "relPath": "transcripts/nina-voice.vtt"
+    },
+    {
+      "@type": "MediaObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/transcripts/roman-voice.vtt",
+      "name": "Roman Voice Vtt",
+      "description": "MT Media AI official multimodal asset: Roman Voice Vtt.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/transcripts/roman-voice.vtt",
+      "encodingFormat": "text/vtt",
+      "contentSize": "485 bytes",
+      "relPath": "transcripts/roman-voice.vtt"
+    }
+  ]
+}
