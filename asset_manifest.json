@@ -922,6 +922,106 @@
     },
     {
       "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/bento-carousel-1.webp",
+      "name": "Data Discovery Divide Benchmark Graphic",
+      "description": "Data Discovery Divide telemetry graph illustrating the 74% structural gap between direct AI conversational answers and traditional organic search placements.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/bento-carousel-1.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "110498 bytes",
+      "relPath": "iiip/bento-carousel-1.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/bento-carousel-2.webp",
+      "name": "AI Citation Analysis & Grounding Flow",
+      "description": "Multi-engine citation analysis diagram detailing the 8.2% to 74% retrieval capture lift achieved through structured schema and entity authority grounding.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/bento-carousel-2.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "268400 bytes",
+      "relPath": "iiip/bento-carousel-2.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/bento-carousel-3.webp",
+      "name": "Regional Market Corridor Density & Protection Ring",
+      "description": "Regional market corridor density map modeling competitive noise barriers and the defensive perimeter protection ring for high-net-worth service districts.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/bento-carousel-3.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "177094 bytes",
+      "relPath": "iiip/bento-carousel-3.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/black-jewel-mt-media-logo.webp",
+      "name": "MT Media AI Black Jewel Brand Mark",
+      "description": "Official MT Media AI Black Jewel crest insignia and sovereign heraldic brand mark with alpha transparency.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/black-jewel-mt-media-logo.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "224274 bytes",
+      "relPath": "iiip/black-jewel-mt-media-logo.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/modern-agentic-search-answer-divide.webp",
+      "name": "Discovery Divide Baseline Matrix",
+      "description": "Baseline discovery divide comparison matrix illustrating conversational synthesized responses versus legacy blue-link algorithmic results.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/modern-agentic-search-answer-divide.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "61656 bytes",
+      "relPath": "iiip/modern-agentic-search-answer-divide.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/modern-agentic-search-buyer-habits.webp",
+      "name": "Agentic Search Buyer Habits Telemetry",
+      "description": "Conversational inquiry telemetry chart showing 67% of luxury advisory buyers conducting zero-click evaluations directly inside AI answer engines.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/modern-agentic-search-buyer-habits.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "220738 bytes",
+      "relPath": "iiip/modern-agentic-search-buyer-habits.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/modern-agentic-search-corridor-integrity.webp",
+      "name": "Territorial Corridor Integrity Radar",
+      "description": "Spatial territory defense radar displaying competitive perimeter locks and regional corridor market share preservation over 60-day windows.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/modern-agentic-search-corridor-integrity.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "194456 bytes",
+      "relPath": "iiip/modern-agentic-search-corridor-integrity.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/modern-agentic-search-record-clarity.webp",
+      "name": "Entity Record Clarity & Registry Alignment Matrix",
+      "description": "Crystalline knowledge graph entity resolution matrix demonstrating machine-verified credential alignment and cross-registry disambiguation.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/modern-agentic-search-record-clarity.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "330820 bytes",
+      "relPath": "iiip/modern-agentic-search-record-clarity.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/modern-agentic-search-roadmap.webp",
+      "name": "Invisible Infrastructure Roadmap Technical Pipeline",
+      "description": "Invisible Infrastructure technical deployment roadmap detailing the four-stage sovereign architecture pipeline from entity compilation to citation sealing.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/modern-agentic-search-roadmap.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "134686 bytes",
+      "relPath": "iiip/modern-agentic-search-roadmap.webp"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/sovereign-group-ai-visibility-snapshot.webp",
+      "name": "Personalized AI Visibility Snapshot (16:9)",
+      "description": "Executive AI visibility diagnostic snapshot quantifying competitive omission risks and machine readability metrics for the designated firm.",
+      "contentUrl": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/iiip/sovereign-group-ai-visibility-snapshot.webp",
+      "encodingFormat": "image/webp",
+      "contentSize": "351098 bytes",
+      "relPath": "iiip/sovereign-group-ai-visibility-snapshot.webp"
+    },
+    {
+      "@type": "ImageObject",
       "@id": "https://raw.githubusercontent.com/mtmediaai/mtm-assets/main/landmarks/houston-heritage-plaza-cistern.jpg",
       "name": "Heritage Plaza Cistern Architecture (Houston, TX)",
       "description": "Architectural study of Houston's iconic stepped glass summit and underground subterranean cistern.",

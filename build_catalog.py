@@ -220,6 +220,58 @@ ALT_MAP = {
         "title": "Echo Canonical Voice Sample (Resonant, Observant & Empathetic)",
         "desc": "Master acoustic timbre reference for Echo's conversational AI persona, conveying market resonance, thoughtful listening, and deep pulse tracking.",
         "type": "AudioObject"
+    },
+
+    # IIIP Delivery System Visuals & Analytics
+    "bento-carousel-1.webp": {
+        "title": "Data Discovery Divide Benchmark Graphic",
+        "desc": "Data Discovery Divide telemetry graph illustrating the 74% structural gap between direct AI conversational answers and traditional organic search placements.",
+        "type": "ImageObject"
+    },
+    "bento-carousel-2.webp": {
+        "title": "AI Citation Analysis & Grounding Flow",
+        "desc": "Multi-engine citation analysis diagram detailing the 8.2% to 74% retrieval capture lift achieved through structured schema and entity authority grounding.",
+        "type": "ImageObject"
+    },
+    "bento-carousel-3.webp": {
+        "title": "Regional Market Corridor Density & Protection Ring",
+        "desc": "Regional market corridor density map modeling competitive noise barriers and the defensive perimeter protection ring for high-net-worth service districts.",
+        "type": "ImageObject"
+    },
+    "modern-agentic-search-buyer-habits.webp": {
+        "title": "Agentic Search Buyer Habits Telemetry",
+        "desc": "Conversational inquiry telemetry chart showing 67% of luxury advisory buyers conducting zero-click evaluations directly inside AI answer engines.",
+        "type": "ImageObject"
+    },
+    "modern-agentic-search-record-clarity.webp": {
+        "title": "Entity Record Clarity & Registry Alignment Matrix",
+        "desc": "Crystalline knowledge graph entity resolution matrix demonstrating machine-verified credential alignment and cross-registry disambiguation.",
+        "type": "ImageObject"
+    },
+    "modern-agentic-search-corridor-integrity.webp": {
+        "title": "Territorial Corridor Integrity Radar",
+        "desc": "Spatial territory defense radar displaying competitive perimeter locks and regional corridor market share preservation over 60-day windows.",
+        "type": "ImageObject"
+    },
+    "modern-agentic-search-roadmap.webp": {
+        "title": "Invisible Infrastructure Roadmap Technical Pipeline",
+        "desc": "Invisible Infrastructure technical deployment roadmap detailing the four-stage sovereign architecture pipeline from entity compilation to citation sealing.",
+        "type": "ImageObject"
+    },
+    "modern-agentic-search-answer-divide.webp": {
+        "title": "Discovery Divide Baseline Matrix",
+        "desc": "Baseline discovery divide comparison matrix illustrating conversational synthesized responses versus legacy blue-link algorithmic results.",
+        "type": "ImageObject"
+    },
+    "black-jewel-mt-media-logo.webp": {
+        "title": "MT Media AI Black Jewel Brand Mark",
+        "desc": "Official MT Media AI Black Jewel crest insignia and sovereign heraldic brand mark with alpha transparency.",
+        "type": "ImageObject"
+    },
+    "sovereign-group-ai-visibility-snapshot.webp": {
+        "title": "Personalized AI Visibility Snapshot (16:9)",
+        "desc": "Executive AI visibility diagnostic snapshot quantifying competitive omission risks and machine readability metrics for the designated firm.",
+        "type": "ImageObject"
     }
 }
 
